@@ -1,18 +1,40 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualFunctionExample", "VirtualFunctionExample\VirtualFunctionExample.vcproj", "{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualFunctionExample", "VirtualFunctionExample\VirtualFunctionExample.vcxproj", "{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewOverrideExample", "NewOverrideExample\NewOverrideExample.csproj", "{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
 		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
 		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Debug|Mixed Platforms.Build.0 = Debug|Win32
 		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Debug|Win32.ActiveCfg = Debug|Win32
 		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Debug|Win32.Build.0 = Debug|Win32
+		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Release|Win32.ActiveCfg = Release|Win32
 		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Release|Win32.Build.0 = Release|Win32
+		{AB46F576-AADF-46E1-BF53-4603AFE2C4E9}.Release|x86.ActiveCfg = Release|Win32
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Debug|Win32.ActiveCfg = Debug|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Debug|x86.ActiveCfg = Debug|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Debug|x86.Build.0 = Debug|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Release|Win32.ActiveCfg = Release|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Release|x86.ActiveCfg = Release|x86
+		{BF896FB3-8C77-46CE-9E19-CB3C419CF19B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

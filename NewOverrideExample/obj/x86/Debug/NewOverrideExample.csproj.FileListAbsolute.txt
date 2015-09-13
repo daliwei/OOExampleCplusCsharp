@@ -1,0 +1,4 @@
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\NewOverrideExample\bin\Debug\NewOverrideExample.exe
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\NewOverrideExample\bin\Debug\NewOverrideExample.pdb
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\NewOverrideExample\obj\x86\Debug\NewOverrideExample.exe
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\NewOverrideExample\obj\x86\Debug\NewOverrideExample.pdb
