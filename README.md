@@ -1,6 +1,6 @@
-# OO Concepts Examples in C++ and C#
+# OO Concepts Examples in C++ and C Sharp
 
-1. Virtual Function Demonstration Example
+. Virtual Function Demonstration Example
 
 Quote an explanation from stackoverflow:
 http://stackoverflow.com/questions/2391679/why-do-we-need-virtual-methods-in-c
@@ -12,7 +12,7 @@ With "virtual" you get "late binding". Which implementation of the method is use
 
 "
 
-2. New and override examples
+. New and override examples
 
 Quote stackoverflow:
 http://stackoverflow.com/questions/1399127/c-new-versus-override
