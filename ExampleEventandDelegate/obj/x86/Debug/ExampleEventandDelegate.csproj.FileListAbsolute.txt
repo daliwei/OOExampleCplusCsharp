@@ -1,0 +1,4 @@
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\ExampleEventandDelegate\bin\Debug\ExampleEventandDelegate.exe
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\ExampleEventandDelegate\bin\Debug\ExampleEventandDelegate.pdb
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\ExampleEventandDelegate\obj\x86\Debug\ExampleEventandDelegate.exe
+C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\ExampleEventandDelegate\obj\x86\Debug\ExampleEventandDelegate.pdb

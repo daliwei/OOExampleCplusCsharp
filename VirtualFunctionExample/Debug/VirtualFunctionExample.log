@@ -1,16 +1,12 @@
-﻿Build started 9/13/2015 5:22:36 PM.
-     1>Project "C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\VirtualFunctionExample\VirtualFunctionExample.vcxproj" on node 2 (build target(s)).
+﻿Build started 9/13/2015 11:59:39 PM.
+     1>Project "C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\VirtualFunctionExample\VirtualFunctionExample.vcxproj" on node 3 (build target(s)).
      1>InitializeBuildStatus:
-         Touching "Debug\VirtualFunctionExample.unsuccessfulbuild".
+         Creating "Debug\VirtualFunctionExample.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
          All outputs are up-to-date.
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\VirtualFunctionExample.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Animal.cpp Cat.cpp VirtualFunctionExample.cpp
-         VirtualFunctionExample.cpp
-         Cat.cpp
-         Animal.cpp
-         Generating Code...
+         All outputs are up-to-date.
        ManifestResourceCompile:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\VirtualFunctionExample.exe.embed.manifest.res" Debug\VirtualFunctionExample_manifest.rc 
+         All outputs are up-to-date.
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\Debug\VirtualFunctionExample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\VirtualFunctionExample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\Debug\VirtualFunctionExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dali Wei\Documents\Visual Studio 2005\Projects\VirtualFunctionExample\Debug\VirtualFunctionExample.lib" /MACHINE:X86 Debug\VirtualFunctionExample.exe.embed.manifest.res
          Debug\Animal.obj
@@ -31,4 +27,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:11.81
+Time Elapsed 00:00:03.34

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewOverrideExample", "NewOv
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultipleInheritance", "MultipleInheritance\MultipleInheritance.vcxproj", "{E302DDAA-0D01-403F-84B3-E2BB35FD169B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleEventandDelegate", "ExampleEventandDelegate\ExampleEventandDelegate.csproj", "{7FFDF913-14B2-49EF-AC46-0E8D764EC276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Mixed Platforms = Debug|Mixed Platforms
@@ -47,6 +51,26 @@ Global
 		{E302DDAA-0D01-403F-84B3-E2BB35FD169B}.Release|Win32.ActiveCfg = Release|Win32
 		{E302DDAA-0D01-403F-84B3-E2BB35FD169B}.Release|Win32.Build.0 = Release|Win32
 		{E302DDAA-0D01-403F-84B3-E2BB35FD169B}.Release|x86.ActiveCfg = Release|Win32
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Debug|Win32.ActiveCfg = Debug|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Debug|x86.ActiveCfg = Debug|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Debug|x86.Build.0 = Debug|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Release|Mixed Platforms.Build.0 = Release|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Release|Win32.ActiveCfg = Release|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Release|x86.ActiveCfg = Release|x86
+		{7FFDF913-14B2-49EF-AC46-0E8D764EC276}.Release|x86.Build.0 = Release|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Debug|Win32.ActiveCfg = Debug|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Debug|x86.ActiveCfg = Debug|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Debug|x86.Build.0 = Debug|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Release|Mixed Platforms.Build.0 = Release|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Release|Win32.ActiveCfg = Release|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Release|x86.ActiveCfg = Release|x86
+		{413DE5A5-1EB2-4BFE-A3B3-BE5F442B2BAA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
