@@ -7,6 +7,6 @@ class Radio :
 public:
 	Radio(void);
 	~Radio(void);
-	/*void read();*/
+	void read();
 };
 

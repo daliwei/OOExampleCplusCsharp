@@ -16,9 +16,9 @@ Radio::~Radio(void)
 }
 
 
-//void Radio::read()
-//{
-//	std::cout<<"read from radio";
-//}
+void Radio::read()
+{
+	std::cout<<"read from radio";
+}
 
 

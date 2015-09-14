@@ -1,7 +1,7 @@
 #pragma once
 #include "storable.h"
 class Receiver :
-	public virtual Storable
+	public  Storable
 {
 public:
 	Receiver(void);
