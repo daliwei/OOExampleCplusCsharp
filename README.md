@@ -20,3 +20,10 @@ http://stackoverflow.com/questions/1399127/c-new-versus-override
 The override modifier may be used on virtual methods and must be used on abstract methods. This indicates for the compiler to use the last defined implementation of a method. Even if the method is called on a reference to the base class it will use the implementation overriding it.
 
 The new modifier instructs the compiler to use your child class implementation instead of the parent class implementation. Any code that is not referencing your class but the parent class will use the parent class implementation.
+
+. Multiple inheritance in C++ and virtual inheritance 
+
+To avoid ambiguous error in multiple inheritance, virtual inheritance is needed to keep one instance of base class.
+
+Source: http://www.cprogramming.com/tutorial/virtual_inheritance.html
+http://www.phpcompiler.org/articles/virtualinheritance.html
